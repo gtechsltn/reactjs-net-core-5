@@ -49,10 +49,10 @@ We also learn best tools for verifying and testing Application APIs and much mor
 + Invoke Ordering of middleware
 + Built-in middlewares
 + Web API Controllers
-+ HTTPGET (GET) – Retrieve – 200 OK
-+ HTTPPOST (POST) – Created – 201 OK
-+ HTTPPUT (PUT), Update – No Content – 204 OK
-+ HTTPDELETE (DELETE) – No Content – 204 OK
++ HTTP GET (GET) – Retrieve – 200 OK
++ HTTP POST (POST) – Created – 201 OK
++ HTTP PUT (PUT), Update – No Content – 204 OK
++ HTTP DELETE (DELETE) – No Content – 204 OK
 + List of Common HTTP Status Codes
 + Routing Middleware
 + MapRoute
