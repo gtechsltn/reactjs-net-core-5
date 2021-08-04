@@ -3,16 +3,43 @@
 + https://www.red-gate.com/simple-talk/author/camiloreyes/
 + IdentityServer4
 
++ Zahra Bayat: I am a .NET Core Developer willing to learn and adapt to new technologies.
++ https://github.com/ZahraBayatgh
+
++ Alex Kates: Senior Software Engineer at https://creditgenie.com. Passionate about full-stack JavaScript, AWS Serverless, and Extreme Programming.
++ https://dev.to/thealexkates
+
 # Starter Kit
 + SPA template built with ASP.NET Core 5.0 + React + Redux + TypeScript + Hot Module Replacement (HMR)
 + https://github.com/based-ghost/aspnet-core-react-redux-playground-template
 + https://github.com/gtechsltn/aspnet-core-react-redux-playground-template
+
+# Authentication/Authorization
++ https://www.c-sharpcorner.com/article/introduction-of-json-web-token-jwt/
++ https://www.c-sharpcorner.com/article/asp-net-core-web-api-5-0-authentication-using-jwtjson-base-token/
+
+# .NET Core 5 Web API
++ https://corespider.com/blog/build-crud-rest-apis-with-asp-net-core-5-0-with-jwt-token/
 
 # ReactJS + ASP.NET Core 5.0 Web API
 + Integrate Create React app with .NET Core 5
 + https://www.red-gate.com/simple-talk/development/dotnet-development/integrate-create-react-app-with-net-core-5/
 + https://github.com/beautifulcoder/integrate-dotnet-core-create-react-app
 + https://github.com/gtechsltn/integrate-dotnet-core-create-react-app
++ ASP.NET Core 5 and React
++ https://github.com/PacktPublishing/ASP.NET-Core-5-and-React-Second-Edition
+
+# React Series
++ https://code-maze.com/react-series/
++ https://www.red-gate.com/simple-talk/development/dotnet-development/integrate-create-react-app-with-net-core-5/ (HAY HAY HAY)
+
+# .NET Core Series
++ https://code-maze.com/net-core-series/
++ https://luis-hernandez.medium.com/creating-a-rest-web-api-in-c-with-asp-net-core-5-0-and-visual-studio-code-809ea7b4f815
++ https://www.ezzylearning.net/tutorial/a-developers-guide-for-creating-web-apis-with-asp-net-core-5 (HAY HAY HAY)
++ https://www.codingvila.com/2021/05/create-rest-api-with-asp-dot-net-core-5-entity-framework-core.html (HAY HAY HAY)
++ https://corespider.com/blog/build-crud-rest-apis-with-asp-net-core-5-0-with-jwt-token/ (HAY HAY HAY)
++ https://ankitsharmablogs.com/asp-net-core-crud-with-react-js-and-entity-framework-core/
 
 + Awesome CMS Core
 + https://github.com/SaiGonSoftware/Awesome-CMS-Core
