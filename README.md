@@ -2,13 +2,13 @@
 
 # ASP.NET Web API Core 5 – .NET 5.0: Develop Cloud Ready Web Applications by Example 2020
 + https://rise2grind.com/product/asp-net-web-api-core-5-net-5-0-develop-cloud-ready-web-applications-by-example-2020/
-ASP.NET Web API Develop Cloud Ready Web Applications with Examples present a fast jump start for developers who want to create modern web applications with latest web technologies, more efficiently than ever, using Visual Studio 2019 ASP.NET Core 5.0 – .NET 5, Web APIs and Entity Framework.
-Build powerful HTTP services and make the most of the ASP.NET Core Web API platform.
-ASP.NET Web API with Examples teaches developers how to add Web APIs (REST) with database functionality to .NET applications.
-We will have comprehensive code creating walk-throughs with SmartIT CodeCamp Web Application with Web APIs (REST) async Operations.
-We will version APIs, secure them by applying authentication and authorization.
-We will create a SPA Blog Manager Web Application with jQuery, Web APIs, Entity Framework Core Generic async Operations with Generic Repository.
-We also learn best tools for verifying and testing Application APIs and much more examples and explanations.
++ ASP.NET Web API Develop Cloud Ready Web Applications with Examples present a fast jump start for developers who want to create modern web applications with latest web technologies, more efficiently than ever, using Visual Studio 2019 ASP.NET Core 5.0 – .NET 5, Web APIs and Entity Framework.
++ Build powerful HTTP services and make the most of the ASP.NET Core Web API platform.
++ ASP.NET Web API with Examples teaches developers how to add Web APIs (REST) with database functionality to .NET applications.
++ We will have comprehensive code creating walk-throughs with SmartIT CodeCamp Web Application with Web APIs (REST) async Operations.
++ We will version APIs, secure them by applying authentication and authorization.
++ We will create a SPA Blog Manager Web Application with jQuery, Web APIs, Entity Framework Core Generic async Operations with Generic Repository.
++ We also learn best tools for verifying and testing Application APIs and much more examples and explanations.
 + Know the new features of ASP.NET Core
 + Custom Cross-platform web API design
 + Creating ASP.NET MVC custom controller with CRUD operations.
