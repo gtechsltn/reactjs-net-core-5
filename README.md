@@ -2,7 +2,17 @@
 + Awesome CMS Core
 + https://github.com/SaiGonSoftware/Awesome-CMS-Core
 + https://github.com/gtechsltn/Awesome-CMS-Core
- 
+
++ Using Create-React-App and .NET Core 3.0 to Build a React Client
++ https://www.codeproject.com/Articles/5248030/Using-Create-React-App-and-NET-Core-3-0-to-Build-a
+
++ ASP.NET Core – CRUD With React.js And Entity Framework Core
++ https://github.com/AnkitSharma-007/CRUD.ASPCore.Reactjs.WebAPI.EF
++ https://github.com/gtechsltn/CRUD.ASPCore.Reactjs.WebAPI.EF
+
++ Setup React and Redux Development Environment From Scratch
++ https://www.codeproject.com/Articles/5280375/Setup-React-and-Redux-Development-Environment-From
+
 # ASP.NET Web API Core 5 – .NET 5.0: Develop Cloud Ready Web Applications by Example 2020
 + https://rise2grind.com/product/asp-net-web-api-core-5-net-5-0-develop-cloud-ready-web-applications-by-example-2020/
 + ASP.NET Web API Develop Cloud Ready Web Applications with Examples present a fast jump start for developers who want to create modern web applications with latest web technologies, more efficiently than ever, using Visual Studio 2019 ASP.NET Core 5.0 – .NET 5, Web APIs and Entity Framework.
