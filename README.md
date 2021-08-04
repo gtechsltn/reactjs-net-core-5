@@ -1,4 +1,19 @@
+# Author
++ Camilo Reyes: Husband, father, and software engineer from Houston Texas. Passionate about C# programming and enterprise software.
++ https://www.red-gate.com/simple-talk/author/camiloreyes/
++ IdentityServer4
+
+# Starter Kit
++ SPA template built with ASP.NET Core 5.0 + React + Redux + TypeScript + Hot Module Replacement (HMR)
++ https://github.com/based-ghost/aspnet-core-react-redux-playground-template
++ https://github.com/gtechsltn/aspnet-core-react-redux-playground-template
+
 # ReactJS + ASP.NET Core 5.0 Web API
++ Integrate Create React app with .NET Core 5
++ https://www.red-gate.com/simple-talk/development/dotnet-development/integrate-create-react-app-with-net-core-5/
++ https://github.com/beautifulcoder/integrate-dotnet-core-create-react-app
++ https://github.com/gtechsltn/integrate-dotnet-core-create-react-app
+
 + Awesome CMS Core
 + https://github.com/SaiGonSoftware/Awesome-CMS-Core
 + https://github.com/gtechsltn/Awesome-CMS-Core
